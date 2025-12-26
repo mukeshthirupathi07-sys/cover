@@ -100,7 +100,7 @@ body, html {
         <div class="content">
             <h1 class="title">The Art of Django</h1>
             <h3 class="subtitle">Mastering Web Development</h3>
-            <div class="author">by Jane Doe</div>
+            <div class="author">by MUKESH T</div>
         </div>
     </div>
 </body>5555553355
